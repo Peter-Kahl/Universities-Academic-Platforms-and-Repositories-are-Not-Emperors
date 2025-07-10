@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/Peter-Kahl/Universities-Academic-Platforms-and-Repositories-are-Not-Emperors/blob/main/vive_le_roi_academia.jpg?raw=true)
 
-by Peter Kahl; independent scholar; published 26 June 2025
+by Peter Kahl; independent scholar; published 8 July 2025
 
 ### Abstract
 In this essay, I argue that epistemic violence—practices within universities, scholarly platforms, journals, and repositories that marginalise multilingual, interdisciplinary, independent scholars, and university applicants—constitutes a severe fiduciary breach. Drawing explicitly upon Gayatri Chakravorty Spivak’s concept of epistemic violence, Miranda Fricker’s epistemic injustice, Michel Foucault’s analysis of power-knowledge regimes, Elizabeth Anderson’s epistemic democracy, Joseph Raz’s epistemic irrationality, John Rawls’s justice as fairness, Tamar Frankel’s fiduciary theory, Ronald Barnett’s ecological vision of universities, and my original scholarship, I show how epistemic violence is embedded in academic governance, perpetuating colonial epistemic structures, institutional authoritarianism, and democratic harm.
